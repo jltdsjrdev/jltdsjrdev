@@ -7,7 +7,10 @@ então fui classificado para uma vaga de Devops no programa Santander Coders 202
 
 ## Conhecimentos em:
 
-HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, PYTHON, API, 
+Html5, Css3, Bootstrap, JavaScript, Python, API, Git e Github, Docker, kubernetes, AWS Services. ⚡
+Sistema ITIL, Gerenciamento de Ti, LGPD
+Sistemas windows e linux (Ubundo), versionamento e arquivos de marcação, Redes, Conteinerização, provisionamento com códigos AWS, Serviços cloud (AWS).
+
 
 
 
