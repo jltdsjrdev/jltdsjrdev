@@ -7,7 +7,8 @@
 
 ## Conhecimentos em:
 
-### Html5, Css3, Bootstrap, JavaScript, Python, API, Git e Github, Docker, kubernetes, AWS Services. ⚡
+
+### Html5, Css3, Bootstrap, JavaScript, Python, API, Git e Github, CI e CD, Docker, kubernetes, AWS Services. ⚡
 ### Sistema ITIL, Gerenciamento de Ti, LGPD
 ### Sistemas windows e linux (Ubundo), versionamento e arquivos de marcação, Redes, Conteinerização, provisionamento com códigos AWS, Serviços cloud (AWS).
 
