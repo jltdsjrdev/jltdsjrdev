@@ -2,11 +2,11 @@
 
 ### Formei-me em Gestão de Tecnologia da Informação em julho de 2024 e, desde então, venho dedicando grande parte do meu tempo aos estudos, buscando sempre aprender e me aperfeiçoar. Inicialmente, tentei explorar várias áreas dentro da tecnologia, mas logo percebi a imensidão e a complexidade desse campo.
 
-Foi então que surgiu a oportunidade de participar do programa Santander Coders 2024, onde fui selecionado para uma vaga na área de DevOps, dentre 81 mil candidatos para apenas 300 vagas. Desde o primeiro contato, senti uma forte afinidade com a carreira de DevOps, e desde então, venho me dedicando intensamente ao curso.
+### Foi então que surgiu a oportunidade de participar do programa Santander Coders 2024, onde fui selecionado para uma vaga na área de DevOps, dentre 81 mil candidatos para apenas 300 vagas. Desde o primeiro contato, senti uma forte afinidade com a carreira de DevOps, e desde então, venho me dedicando intensamente ao curso.
 
-A cada dia, aprendo algo novo e relevante, com professores de altíssimo nível que compartilham suas experiências práticas do mercado. Essa troca de conhecimento, baseada no que enfrentam no cotidiano das empresas, tem sido extremamente valiosa, pois agrega uma perspectiva realista e aplicável ao aprendizado.
+### A cada dia, aprendo algo novo e relevante, com professores de altíssimo nível que compartilham suas experiências práticas do mercado. Essa troca de conhecimento, baseada no que enfrentam no cotidiano das empresas, tem sido extremamente valiosa, pois agrega uma perspectiva realista e aplicável ao aprendizado.
 
-Essa jornada tem sido desafiadora, mas incrivelmente recompensadora, e estou cada vez mais motivado a continuar me especializando na área, visando contribuir de forma significativa no campo de DevOps.
+### Essa jornada tem sido desafiadora, mas incrivelmente recompensadora, e estou cada vez mais motivado a continuar me especializando na área, visando contribuir de forma significativa no campo de DevOps.
 
 
 
